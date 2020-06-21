@@ -1,0 +1,5 @@
+classes=1
+train=custom_cfg/train.txt   
+valid=custom_cfg/test.txt   
+names=./food.names   
+backup=backup/
