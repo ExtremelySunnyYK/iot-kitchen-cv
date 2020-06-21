@@ -40,14 +40,10 @@ Peanuts uses a number of open source projects to work properly:
 #### UI/UX
 * [Figma](https://www.figma.com) - Design, prototype, and gather feedback all in one place
 
-## How tech work
+## How does our tech work?
 - The Video of the kitchen is captured by the Nvdia Jetson Nano which is inputed into a Computer Vision model (YOLO).
 - The Output of the classification of the Computer Vision model is stored on MongoDB Cloud.
-
-
-
-## How it flows
-
+- The Data from the cloud is passed into the front end of our app (Flutter)
 
 
 #### App Mockup
