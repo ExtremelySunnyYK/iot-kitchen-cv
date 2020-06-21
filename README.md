@@ -34,16 +34,16 @@ Peanuts uses a number of open source projects to work properly:
 * Computer Vision Software : [YOLO](https://github.com/AlexeyAB/darknet), [OpenCv](https://opencv.org/)
 * Data analytics (not in proof of concept) for tracking and recommending consumption pattern
 
+## How does our tech work?
+- The Video of the kitchen is captured by the Nvdia Jetson Nano which is inputed into a [Computer Vision model](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/Computer%20Vision).
+- The Output of the classification of the Computer Vision model is stored on MongoDB Cloud.
+- The Data from the cloud is passed into the front end of our [Flutter App](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/Flutter) via our REST API(https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/REST%20API)
+
 ##### Hardware
 * [Nvidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) - small, powerful computer that can run multiple neural networks in parallel for applications like image classification, object detection, segmentation, and speech processing
 
 #### UI/UX
 * [Figma](https://www.figma.com) - Design, prototype, and gather feedback all in one place
-
-## How does our tech work?
-- The Video of the kitchen is captured by the Nvdia Jetson Nano which is inputed into a Computer Vision model (YOLO).
-- The Output of the classification of the Computer Vision model is stored on MongoDB Cloud.
-- The Data from the cloud is passed into the front end of our app (Flutter)
 
 
 #### App Mockup
