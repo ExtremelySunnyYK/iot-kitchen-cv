@@ -2,7 +2,6 @@
 
 <img src = "./Assets/peanutLogo.png" title = "Peanut" width="200" height="200"/>
 
-**Disclaimer: currently proof of concept**
 
 Peanuts is a cloud-enabled, mobile-ready, offline-storage, azure web server powered grocery management app and IoT kitchen camera that provides a seamless end-to-end grocery experience.
 
@@ -95,5 +94,6 @@ You will need
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
+**Disclaimer: currently proof of concept stage**
 
   
