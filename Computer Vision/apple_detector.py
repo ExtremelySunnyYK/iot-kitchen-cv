@@ -41,12 +41,14 @@ class YoloAppleDetector:
                     apples.append((x, y, x + w, y + h))
                     #send post
                     try:
-                        url = 'https://flask-iot-kitchen.scm.azurewebsites.net:443/flask-iot-kitchen.git'
-                        requests.post(url, data = {'apple': -1}, timeout = None)
+                        add = 'mongodb+srv://randellCrapy:burnoutX123@junctionx-mnrf.mongodb.net/<dbname>?retryWrties=true&w=majority'
+                        client = pymongo.MongoClient(add)
+                        myInventory = client['myInventory']
+                        find_num_apples = myInventory.find({"item": "apple" })
+                        myInventory.update_one({"item": "apple"}, {$set : {"quantity" : find_num_apples - 1}})
                         print("successfully sent post request")
                     except Exception as e:
                         print(e)
                         print("unable to send post request")
-
                 # print(self.classes[class_id], confidence)    
         return apples
