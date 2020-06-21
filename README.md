@@ -2,8 +2,12 @@
 
 <img src = "./Assets/peanutLogo.png" title = "Peanut" width="200" height="200"/>
 
+### Mission
+Equipping families with technology to reduce food waste and time spent managing groceries
 
-Peanuts is a cloud-enabled, mobile-ready, offline-storage, azure web server powered grocery management app and IoT kitchen camera that provides a seamless end-to-end grocery experience.
+### Solution
+
+Peanuts is a cloud-enabled grocery management app and IoT kitchen camera that provides a seamless end-to-end grocery experience to reduce food waste for the user.
 
   1. Tracks stock and quality of kitchen groceries
   2. Employs data-analytics magic to optimise your food consumption and grocery purchasing patterns
