@@ -10,14 +10,14 @@ Peanuts is a cloud-enabled, mobile-ready, offline-storage, azure web server powe
   2. Employs data-analytics magic to optimise your food consumption and grocery purchasing patterns
 
 
-## Video demo
+## App demo
 
 <img src = "./Assets/foodapp.gif" title = "gif demo" height="500"/>
 
 
-## Proof of concept demo
+## IOT Proof of Concept Demo
 
-<a href = "https://youtu.be/5LCXWCDCLPI?t=70"><img src = "https://i.imgur.com/NCkj6A4.png" title = "gif demo" height="300"/>
+<a href = "https://youtu.be/5LCXWCDCLPI?t=70"><img src = "https://i.imgur.com/NCkj6A4.png" title = "iot demo" height="300"/>
 
 ### Tech
 
