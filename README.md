@@ -27,6 +27,7 @@ Peanuts uses a number of open source projects to work properly:
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - python web app framework
 * [Azure web service](https://azure.microsoft.com/en-us/services/app-service/web/) - platform to host web server
 * [MongoDB](https://www.mongodb.com/) - Popular NoSQL document database
+* [OpenCV](https://opencv.org/) - Library for Computer Vision
 * Data analytics (not in proof of concept) for tracking and recommending consumption pattern
 
 ##### Hardware
@@ -51,9 +52,9 @@ Peanuts uses a number of open source projects to work properly:
 
 ### Installation
 You will need
-- Nvdia Jetson Nano
-- Python
-- Mongo DB
+* Nvdia Jetson Nano
+* Python
+* Mongo DB
 
 
 ## Future Plans
