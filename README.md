@@ -1,6 +1,6 @@
 # Peanuts
 
-<img src = "peanutLogo.png" title = "Peanut" width="200" height="200"/>
+<img src = "./Assets/peanutLogo.png" title = "Peanut" width="200" height="200"/>
 
 **Disclaimer: currently proof of concept**
 
