@@ -25,7 +25,7 @@ Peanuts uses a number of open source projects to work properly:
 ##### Software
 * [Flutter](https://flutter.dev/) - HTML enhanced for web, mobile and desktop apps!(to create the mobile user interface )
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - python web app framework
-* [Azure web server] - platform to host web server
+* [Azure web service](https://azure.microsoft.com/en-us/services/app-service/web/) - platform to host web server
 * [MongoDB](https://www.mongodb.com/) - Popular NoSQL document database
 * Data analytics (not in proof of concept) for tracking and recommending consumption pattern
 
