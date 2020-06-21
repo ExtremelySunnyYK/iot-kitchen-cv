@@ -12,7 +12,7 @@ Peanuts is a cloud-enabled, mobile-ready, offline-storage, azure web server powe
 
 ## Video demo
 
-<img src = "./Assets/foodapp.gif" title = "Peanut" width="200" height="200"/>
+<img src = "./Assets/foodapp.gif" title = "gif demo"/>
 
 
 ## Proof of concept demo
