@@ -27,7 +27,6 @@ Peanuts uses a number of open source projects to work properly:
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - python web app framework
 * [Azure web service](https://azure.microsoft.com/en-us/services/app-service/web/) - platform to host web server
 * [MongoDB](https://www.mongodb.com/) - Popular NoSQL document database
-* [OpenCV](https://opencv.org/) - Library for Computer Vision
 * Computer Vision Software : [YOLO](https://pjreddie.com/darknet/yolo/), [OpenCv](https://opencv.org/)
 * Data analytics (not in proof of concept) for tracking and recommending consumption pattern
 
