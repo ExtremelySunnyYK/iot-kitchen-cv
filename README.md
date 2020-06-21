@@ -27,6 +27,7 @@ Peanuts is a cloud-enabled grocery management app and IoT kitchen camera that pr
 - The Video of the kitchen is captured by the Nvdia Jetson Nano which is inputed into a [Computer Vision model](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/Computer%20Vision).
 - The Output of the classification of the Computer Vision model is stored on MongoDB Cloud.
 - The Data from the cloud is passed into the front end of our [Flutter App](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/Flutter) via our [REST API](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/REST%20API)
+- Our REST API is deployed on Azure.
 
 
 #### Software
