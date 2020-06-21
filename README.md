@@ -17,7 +17,7 @@ Peanuts is a cloud-enabled, mobile-ready, offline-storage, azure web server powe
 
 ## Video demo
 
-> ![Demo](https://imgur.com/a/EH6pAYQ.gif)
+> ![Demo](https://i.imgur.com/s1HCuji.gifv))
 
 
 ## Proof of concept
