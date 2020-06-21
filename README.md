@@ -22,11 +22,16 @@ Peanuts is a cloud-enabled grocery management app and IoT kitchen camera that pr
 
 <a href = "https://youtu.be/5LCXWCDCLPI?t=70" target="_blank"><img src = "https://i.imgur.com/NCkj6A4.png" title = "IOT Demo Video" height="300"/>
 
-### Tech
 
+## The Tech behind our solution
+- The Video of the kitchen is captured by the Nvdia Jetson Nano which is inputed into a [Computer Vision model](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/Computer%20Vision).
+- The Output of the classification of the Computer Vision model is stored on MongoDB Cloud.
+- The Data from the cloud is passed into the front end of our [Flutter App](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/Flutter) via our [REST API](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/REST%20API)
+
+
+#### Software
 Peanuts uses a number of open source projects to work properly:
 
-##### Software
 * [Flutter](https://flutter.dev/) - HTML enhanced for web, mobile and desktop apps!(to create the mobile user interface )
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - python web app framework
 * [Azure web service](https://azure.microsoft.com/en-us/services/app-service/web/) - platform to host web server
@@ -34,10 +39,7 @@ Peanuts uses a number of open source projects to work properly:
 * Computer Vision Software : [YOLO](https://github.com/AlexeyAB/darknet), [OpenCv](https://opencv.org/)
 * Data analytics (not in proof of concept) for tracking and recommending consumption pattern
 
-## How does our tech work?
-- The Video of the kitchen is captured by the Nvdia Jetson Nano which is inputed into a [Computer Vision model](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/Computer%20Vision).
-- The Output of the classification of the Computer Vision model is stored on MongoDB Cloud.
-- The Data from the cloud is passed into the front end of our [Flutter App](https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/Flutter) via our REST API(https://github.com/ExtremelySunnyYK/iot-kitchen-cv/tree/master/REST%20API)
+
 
 ##### Hardware
 * [Nvidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) - small, powerful computer that can run multiple neural networks in parallel for applications like image classification, object detection, segmentation, and speech processing
