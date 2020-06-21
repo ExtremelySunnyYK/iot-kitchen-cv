@@ -28,12 +28,12 @@ Peanuts uses a number of open source projects to work properly:
 * [Azure web service](https://azure.microsoft.com/en-us/services/app-service/web/) - platform to host web server
 * [MongoDB](https://www.mongodb.com/) - Popular NoSQL document database
 * [OpenCV](https://opencv.org/) - Library for Computer Vision
+* Computer Vision Software : [YOLO](https://pjreddie.com/darknet/yolo/), [OpenCv](https://opencv.org/)
 * Data analytics (not in proof of concept) for tracking and recommending consumption pattern
 
 ##### Hardware
 * [Nvidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) - small, powerful computer that can run multiple neural networks in parallel for applications like image classification, object detection, segmentation, and speech processing
 
-*Software*: [YOLO](https://pjreddie.com/darknet/yolo/), [OpenCv](https://opencv.org/)
 #### UI/UX
 * [Figma](https://www.figma.com) - Design, prototype, and gather feedback all in one place
 
