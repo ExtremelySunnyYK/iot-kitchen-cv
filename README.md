@@ -67,7 +67,7 @@ You will need
 
 ## Credits
 - [Chia Yong Kang](https://github.com/ExtremelySunnyYK)
-- [Tan Jia Yue]
+- [Tan Jia Yue](https://github.com/makehahaz)
 - [Hoe Jun Leong](https://github.com/hjunleon1999)
 - [Joseph Low](https://github.com/jolow99)
 - [Dhanush Kumar](https://github.com/Dhanushkmr)
