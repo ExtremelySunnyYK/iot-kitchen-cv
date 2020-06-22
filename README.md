@@ -15,7 +15,7 @@ Peanuts is a cloud-enabled grocery management app and IoT kitchen camera that pr
 
 ## App demo
 
-<img src = "./Assets/foodapp.gif" title = "gif demo" height="480"/>
+<img src = "https://i.imgur.com/pFsr1mv.gif" title = "gif demo" height="480"/>
 
 
 ## IOT Proof of Concept Demo
