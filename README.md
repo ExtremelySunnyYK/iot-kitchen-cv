@@ -1,5 +1,4 @@
-# Peanuts 
-## Winner of 2020 HackJunction Hackathon 🏆
+# Peanuts : Winner of 2020 HackJunction Hackathon 🏆
 
 <img src = "./Assets/peanutLogo.png" title = "Peanut" width="200" height="200"/>
 
