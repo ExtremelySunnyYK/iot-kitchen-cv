@@ -2,6 +2,8 @@
 
 <img src = "./Assets/peanutLogo.png" title = "Peanut" width="200" height="200"/>
 
+Link for publicity: https://blog.hackjunction.com/junctionx-asia-2020-2d91a6d25fb2
+
 ### Mission
 Equipping families with technology to reduce food waste and time spent managing groceries
 
